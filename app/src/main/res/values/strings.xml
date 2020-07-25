@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dynamic Creation of Components</string>
+    <string name="name">Contact No.</string>
+    <string name="enter_favourite_dishes">Enter Contact Numbers:-</string>
+    <string name="add_contact_number">Add Contact Number</string>
+    <string name="enter_contact_number">Enter Contact Number</string>
+    <string name="add_contact_numbers">Add Contact Numbers</string>
+</resources>
